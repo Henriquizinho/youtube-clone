@@ -82,9 +82,53 @@ Cada rota foi projetada para atender a funcionalidades específicas, separando c
 - Senhas armazenadas utilizando **bcrypt**.
 
 
-## 🤝 Contribuindo
+## 🤝 Alunos
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-Sinta-se à vontade para contribuir! Para sugestões ou dúvidas, abra uma **issue** ou envie um **pull request**.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Henriquizinho">
+        <img src="https://avatars.githubusercontent.com/u/179753857?v=4" width="100px;" alt="Foto do Adrian Moreno no Github"/><br>
+        <sub>
+          <b>Adrian Moreno</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/diogocds">
+        <img src="https://avatars.githubusercontent.com/u/163685852?v=4" width="100px;" alt="Foto do Diogo Cunha no GitHub"/><br>
+        <sub>
+          <b>Diogo Cunha</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rada333">
+        <img src="https://avatars.githubusercontent.com/u/10971606?v=4" width="100px;" alt="Foto do Radamés Escócio no GitHub"/><br>
+        <sub>
+          <b>Radamés Escócio</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FranciellyBeserra">
+        <img src="https://avatars.githubusercontent.com/u/179868457?v=4" width="100px;" alt="Foto do Francielly Beserra no GitHub"/><br>
+        <sub>
+          <b>Francielly Beserra</b>
+        </sub>
+      </a>
+    </td>   
+    <td align="center">
+      <a href="https://github.com/Oitudobem1084">
+        <img src="https://avatars.githubusercontent.com/u/179861178?v=4" width="100px;" alt="Foto do Jobson Willian no GitHub"/><br>
+        <sub>
+          <b>Jobson Willian</b>
+        </sub>
+      </a>
+    </td>  
+  </tr>
+</table>
 
 
 ## 📝 Licença
@@ -97,8 +141,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais in
 Este projeto é inspirado na interface e funcionalidades básicas do YouTube.
 
 ## ❤️ Resultado final
-
-
 https://github.com/user-attachments/assets/4a3e1bfb-9140-4b31-bac2-6f6171b5da67
 
 
